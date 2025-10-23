@@ -1,0 +1,14 @@
+/home/dan_i/learn/dotnet/TestApp/bin/Debug/net8.0/TestApp
+/home/dan_i/learn/dotnet/TestApp/bin/Debug/net8.0/TestApp.deps.json
+/home/dan_i/learn/dotnet/TestApp/bin/Debug/net8.0/TestApp.runtimeconfig.json
+/home/dan_i/learn/dotnet/TestApp/bin/Debug/net8.0/TestApp.dll
+/home/dan_i/learn/dotnet/TestApp/bin/Debug/net8.0/TestApp.pdb
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfoInputs.cache
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfo.cs
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/TestApp.csproj.CoreCompileInputs.cache
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/TestApp.dll
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/refint/TestApp.dll
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/TestApp.pdb
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/TestApp.genruntimeconfig.cache
+/home/dan_i/learn/dotnet/TestApp/obj/Debug/net8.0/ref/TestApp.dll
